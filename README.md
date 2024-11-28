@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e491b10-8a58-4378-b600-6438746b8c6e)Hello! I'm Deepak 👋
+Hello! I'm Deepak 👋
 Welcome to my GitHub profile! I am a Data Analyst with a background in the financial department, and I’ve recently made a descision for career transition to data analysis. My experience in finance has given me a solid understanding of data-driven decision-making, and I’ve upskilled by learning various tools and techniques used in data analysis to enhance my problem-solving and analytical skills.
 
 📚 About Me
