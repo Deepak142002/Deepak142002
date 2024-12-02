@@ -59,8 +59,8 @@ My experience in finance has shown me the power of data in shaping business deci
 Feel free to reach out to discuss data analysis techniques, career transitions, or any potential opportunities to collaborate!
 
 - **Contact**  
-  - 📧 Email: Your Email  
-  - 🔗 LinkedIn: LinkedIn URL  
+  - 📧 Email: Your Email - [deepakmiller14@gmail.com]  
+  - 🔗 LinkedIn: LinkedIn URL - [https://www.linkedin.com/in/deepak-ap14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJu%2FbmIgyRN6X0LbzUrzMGg%3D%3D] 
   - 🌐 Portfolio: [Portfolio URL]  
 
 👩‍💻 Let's Connect  
