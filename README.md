@@ -22,13 +22,13 @@ In my transition to a Data Analyst role, I’ve worked on several projects that 
    - Description: Analyzed the satisfaction rate, Amount, Ratings, No of Male & Female customers.  
    - Tools Used: Excel  
    - Key Insights: Created visualizations to show the overall data of the customers.  
-   - [Link to project Repository](https://github.com/Deepak142002/Deepak142002/blob/main/data-excel-portfolio-project%20(Call%20centre%20employees%20data)%20(1).xlsx)
+   - [https://github.com/Deepak142002/Deepak142002/blob/main/data-excel-portfolio-project%20(Call%20centre%20employees%20data)%20(1).xlsx]
 
 2. **Netflix TV Shows & Movies**  
    - Description: Analyzed the TV shows & movies that were released on the Netflix platform (This data was scraped from Kaggle.com).  
    - Tools Used: Power BI  
    - Key Insights: Built a chart for the count of TV shows & Movies occurring over the countries.  
-   - [Link to Project Repository](https://github.com/Deepak142002/Deepak142002/blob/main/netflix_Project.pbix)
+     -[https://github.com/Deepak142002/Deepak142002/blob/main/netflix_Project.pbix]
 
 3. **Croma Store**  
    - Description: Analyzed the customer data to categorize users based on purchasing behavior.  
