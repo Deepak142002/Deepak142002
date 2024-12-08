@@ -12,7 +12,7 @@ _📚 About Me
   - Python 🐍 - Basics of (Libraries, Pandas)
   - SQL 🖥️ - MySQL
   - Power BI 📈
-  - Excel
+  - Advanced Excel
   - Background in Finance: Understanding financial statements, Invoice processing, VMD.
 
 🚀 Projects 
@@ -61,7 +61,7 @@ Feel free to reach out to discuss data analysis techniques, career transitions, 
 - **Contact**  
   - 📧 Email: Your Email - [deepakmiller14@gmail.com]  
   - 🔗 LinkedIn: LinkedIn URL - [https://www.linkedin.com/in/deepak-ap14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJu%2FbmIgyRN6X0LbzUrzMGg%3D%3D] 
-  - 🌐 Portfolio: [Portfolio URL]  
+  - 🌐 Portfolio: [https://github.com/Deepak142002/Deepak142002,https://github.com/Deepak142002/Croma-SQL-project]  
 
 👩‍💻 Let's Connect  
 I'm excited to continue learning and growing in the data field. If you're also transitioning into data analysis or are looking to collaborate, feel free to reach out!
